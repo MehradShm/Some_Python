@@ -1,0 +1,3 @@
+a = int(input("a o bede koskesh",end=' '))
+b = int(input("a o ke gereftam , b am bede biad =)) ",end=' '))
+print(a+b , " LOL RIDI BABA BA IN JAME KAMESHOON")

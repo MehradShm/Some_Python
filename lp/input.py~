@@ -1,0 +1,4 @@
+i1 , i2 = input("Write!\n")
+
+print(i1)
+print(i2)
